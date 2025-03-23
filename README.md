@@ -62,14 +62,14 @@ Proje ekran görüntüsü aşağıdaki gibidir:
 - **Geçmiş Kayıtları**: Yapılan işlemler bir liste şeklinde saklanarak kullanıcıya geçmiş hesaplamaları görüntüleme imkânı sunulabilir.
 - **Sesli Komut Desteği**: Kullanıcıların sesli komutlar ile işlem yapmasına olanak tanıyacak bir özellik eklenebilir.
 
-### Sosyal Medya Bağlantıları:
+## Sosyal Medya Bağlantıları:
 
 - [Instagram](https://instagram.com/alperaytasci)
 - [GitHub](https://github.com/alpperay)
-- [LinkedIn](https://linkedin.com/alperaytasci)
-- [Twitter](https://x.com/alperaytasci)
+- [LinkedIn](https://www.linkedin.com/in/alperaytasci)
+- [Twitter(X)](https://x.com/alperaytasci)
 
-### Geliştirici & Yazar:
+## Geliştirici & Yazar:
 
 **Alp Eray Taşçı**
 
@@ -77,7 +77,7 @@ Proje ekran görüntüsü aşağıdaki gibidir:
 
 Bu proje **MIT Lisansı** ile lisanslanmıştır. Lisans bilgilerini [LICENSE](LICENSE) dosyasından görebilirsiniz.
 
-### Katkıda Bulunma:
+## Katkıda Bulunma:
 
 1. Projeyi fork edin,
 2. Değişikliklerinizi yapın ve pull request gönderin.
